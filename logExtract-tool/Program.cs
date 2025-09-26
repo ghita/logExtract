@@ -8,7 +8,7 @@
         await foreach (var evt in events)
         {
             Console.WriteLine($"Event ID: {evt.EventID}, Time Generated: {evt.TimeGenerated}, Name: {evt.Name}, Source: {evt.Source}, Message: {evt.Message}");
-            lineCount++;
+            lineCount++; 
         }
         Console.WriteLine($"Total lines: {lineCount}");
     }
