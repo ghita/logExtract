@@ -12,4 +12,7 @@
     <ProjectReference Include="..\logExtract\logExtract.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+  </ItemGroup>
+
 </Project>
