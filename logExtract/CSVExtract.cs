@@ -78,7 +78,7 @@ namespace logExtract
                 }
                 if (inQuotes)
                 {
-                    fieldBuilder.Append("\n");
+                    fieldBuilder.Append("\r\n");
                     continue;
                 }
                 fields.Add(fieldBuilder.ToString());

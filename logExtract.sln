@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logExtract", "logExtract\lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logExtract-tool", "logExtract-tool\logExtract-tool.csproj", "{6C165682-9B73-4087-8AF3-CCED1F5E8E5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logExtract.Test", "logExtract.Test\logExtract.Test.csproj", "{58FAADD0-9C06-44DE-90C9-A907BDFBFFBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{6C165682-9B73-4087-8AF3-CCED1F5E8E5C}.Release|x64.Build.0 = Release|Any CPU
 		{6C165682-9B73-4087-8AF3-CCED1F5E8E5C}.Release|x86.ActiveCfg = Release|Any CPU
 		{6C165682-9B73-4087-8AF3-CCED1F5E8E5C}.Release|x86.Build.0 = Release|Any CPU
+		{58FAADD0-9C06-44DE-90C9-A907BDFBFFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FAADD0-9C06-44DE-90C9-A907BDFBFFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FAADD0-9C06-44DE-90C9-A907BDFBFFBE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{58FAADD0-9C06-44DE-90C9-A907BDFBFFBE}.Debug|x64.Build.0 = Debug|Any CPU
+		{58FAADD0-9C06-44DE-90C9-A907BDFBFFBE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{58FAADD0-9C06-44DE-90C9-A907BDFBFFBE}.Debug|x86.Build.0 = Debug|Any CPU
+		{58FAADD0-9C06-44DE-90C9-A907BDFBFFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FAADD0-9C06-44DE-90C9-A907BDFBFFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FAADD0-9C06-44DE-90C9-A907BDFBFFBE}.Release|x64.ActiveCfg = Release|Any CPU
+		{58FAADD0-9C06-44DE-90C9-A907BDFBFFBE}.Release|x64.Build.0 = Release|Any CPU
+		{58FAADD0-9C06-44DE-90C9-A907BDFBFFBE}.Release|x86.ActiveCfg = Release|Any CPU
+		{58FAADD0-9C06-44DE-90C9-A907BDFBFFBE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
