@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ytdump": {
+      "commandName": "Project",
+      "commandLineArgs": "-f logExtract.json -o extractedLogs.out",
+      "workingDirectory": "$(ProjectDir)",
+    }
+  }
+}
